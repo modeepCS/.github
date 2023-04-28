@@ -1,18 +1,14 @@
 # MoDeep Coding Study
 > 인공지능 이론 공부, 논문을 읽고 코드로 구현하는 활동을 하는 [MoDeep](https://github.com/modeep)의 스터디입니다.
 
-## 인원
-> 김세현
-
-> 이재하
-
-> 박재민
-
-> 노승준
-
-> 서예린
-
-> 김대운
+## 멤버
+| 이름 | 학년 | GitHub |
+| 김세현 | 2학년 | [@repairedserver](https://github.com/repairedserver) |
+| 이재하 | 2학년 | [@chungnok0611](https://github.com/chungnok0611) |
+| 박재민 | 1학년 | [@bbiyak2929](https://github.com/bbiyak2929) |
+| 노승준 | 1학년 | [@seprogramd14](https://github.com/seprogramd14) |
+| 서예린 | 1학년 | [@seoyerin1130](https://github.com/seoyerin1130) |
+| 김대운 | 1학년 | [@eodns1025](https://github.com/eodns1025) |
 
 ## 스터디 내용
 - 데이터 분석(numpy, pandas, matplotlib)
