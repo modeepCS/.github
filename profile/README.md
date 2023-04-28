@@ -3,6 +3,7 @@
 
 ## 멤버
 | 이름 | 학년 | GitHub |
+| :--- | :----| :------: |
 | 김세현 | 2학년 | [@repairedserver](https://github.com/repairedserver) |
 | 이재하 | 2학년 | [@chungnok0611](https://github.com/chungnok0611) |
 | 박재민 | 1학년 | [@bbiyak2929](https://github.com/bbiyak2929) |
